@@ -8,7 +8,7 @@ let welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 
 let excitedWelcomeMessage = "WELCOME TO FLATBOOK, " + upperCaseCurrentUser + "!";
 
-let shortGreeting = "Welcome, ";
+let shortGreeting = "Welcome, " + firstInitial;
 const firstInitial = currentUser[0];
 const restOfName = currentUser.slice(1);
 
