@@ -4,4 +4,4 @@ let currentUser = "string";
 
 let welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 
-let excitedWelcomeMessage = ""
+let excitedWelcomeMessage = "WELCOME TO FLATBOOK, "
