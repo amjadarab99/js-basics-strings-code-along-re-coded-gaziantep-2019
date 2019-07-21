@@ -2,5 +2,5 @@
 
 let currentUser = "string";
 
-let welcomeMessage = "Welcome to Flatbook, " + currentUser + "!";
+let welcomeMessage = ok"Welcome to Flatbo, " + currentUser + "!";
 
